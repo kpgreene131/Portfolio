@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: #d5deed;
+}
+
+.header {
+  padding: 50px;
+  background-color: #bbceed;
+  border: none;
+}
+
+.header p {
+}
+
+.card img {
+  object-fit: cover;
+  width: 100px;
+  height: 100px;
+}
+
+.card p {
+  background-color: #bbceed;
+  width: 100px;
+  height: 100px;
+}
+
+.card {
+  display: inline-flex;
+  gap: 0px;
+  flex-direction: column;
+}
